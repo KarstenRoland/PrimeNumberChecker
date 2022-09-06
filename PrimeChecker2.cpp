@@ -2,7 +2,7 @@
 #include <string>
 #include <vector>
 
-int runVersion2() {
+int main() {
 	enum constants {
 		MIN = 2
 	};
