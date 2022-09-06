@@ -1,7 +1,7 @@
 # PrimeNumberChecker
-An extension of a programming test from a university course.
-I created two additional versions to test my skills and see how much I could improve on the original design. I may create additional versions if I think of anything new I want to test out.
-Accepts a user input in the form of a positive integer and calculates all prime numbers between 2 and that number.
+An extension of a programming test from a university course.<br>
+I created two additional versions to test my skills and see how much I could improve on the original design. I may create additional versions if I think of anything new I want to test out.<br>
+Calculates all prime numbers between a minimum and maximum number.
 
 ## Version 1 (35 lines)
 This version is limited to all numbers between 1 and 100. It checks all numbers between 2 and the square root of the number it is currently checking for divisibility. It uses a condition counter to determine if a number is prime (1) or composite (2+), outputting the number if it passes a condition check. The program deliberately skips 1 if it falls between the minimum (1) and maximum (2), as it is neither prime nor composite. The program is short and easy to understand, but checks way more numbers than it needs to.
