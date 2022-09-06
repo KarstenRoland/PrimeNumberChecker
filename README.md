@@ -1,6 +1,6 @@
 # PrimeNumberChecker
 An extension of a programming test from a university course.<br>
-I created two additional versions to test my skills and see how much I could improve on the original design. I may create additional versions if I think of anything new I want to test out.<br>
+I created two additional versions to test my skills and see how much I could improve on the original design. I have plans to write a version of this program in C, once I know enough to attempt it. I may create additional versions if I think of anything new I want to test out.<br>
 Calculates all prime numbers between a minimum and maximum number.
 
 ## Version 1 (35 lines)
